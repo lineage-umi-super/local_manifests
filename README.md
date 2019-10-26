@@ -1,3 +1,3 @@
 # local_manifests
 
-Cool beans
+Use this manifest to build lineage-13.0 for the umi super
